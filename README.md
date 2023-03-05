@@ -63,16 +63,15 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/xanmoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/xanmoy" /></a><a href="https://ko-fi.com/https://ko-fi.com/xanmoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/xanmoy" /></a></p><br><br>
 
 
-<div align="center>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanmoy&show_icons=true&locale=en&layout=compact" alt="xanmoy" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanmoy&show_icons=true&locale=en&layout=compact" alt="xanmoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanmoy&show_icons=true&locale=en" alt="xanmoy" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanmoy&show_icons=true&locale=en" alt="xanmoy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xanmoy&" alt="xanmoy" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xanmoy&" alt="xanmoy" /></p>
 
 
-													</div>
+											
 
 ---
 
