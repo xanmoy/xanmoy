@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tanmoy Ganguly</h1>
+<h3 align="center">Software Engineer | Computer Researcher | Web Designer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -337,8 +337,8 @@ Here are some ideas to get you started:
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
+<!-- ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</p> -->
