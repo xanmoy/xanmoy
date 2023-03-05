@@ -65,8 +65,8 @@
 
 <!-- ## <picture> <img src="https://i.gifer.com/fetch/w300-preview/4a/4adb402a92d53a9aa424337f53674b79.gif" width="100px"> </picture> Support:
 <br> -->
-<h3 align="left">🙌 Support:</h3>
-<hr>
+<h1 align="left">🙌 Support:</h1>
+<br>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/xanmoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/xanmoy" /></a><a href="https://ko-fi.com/https://ko-fi.com/xanmoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/xanmoy" /></a></p><br><br>
 
 
