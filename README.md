@@ -14,7 +14,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - 🏫: I am a Computer Science Engineering Student at [West Bengal University of Technology](https://makautwb.ac.in/)
 - :technologist: I love using Software as a solution for every `Problem`.
@@ -73,7 +73,7 @@
 
 											
 
----
+<br>
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
