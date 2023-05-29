@@ -22,7 +22,7 @@
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](). -->
-- :boom: You can visit [MY WEBSITE](https://www.tanmoygangopadhyay.ml/)
+- :boom: You can visit [MY WEBSITE](https://www.tanmoyganguly.in/)
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
